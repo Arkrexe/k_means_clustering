@@ -1,4 +1,4 @@
-# 🔍 K-Means Clustering - Task 8
+# 🔍 K-Means Clustering 
 
 ## 📌 Objective
 Use K-Means for unsupervised clustering of Mall Customers based on their income and spending score. Understand Elbow Method, clustering logic, and evaluation via Silhouette Score.
